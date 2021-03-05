@@ -1,1 +1,4 @@
-fdfdfd
+#Stock Sentiment Analysis
+
+###Languages:
+- Python
